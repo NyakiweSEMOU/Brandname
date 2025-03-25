@@ -7,7 +7,7 @@ body {
 header {
   width: 100%;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(/assets/images/hero-6-cover\ sec-.jpg);
+    url(/assets/images/cover.jpg);
   background-size: cover;
   background-position: center;
   color: white;
@@ -166,7 +166,7 @@ header {
 .layout-1-row .col-md-6 {
   width: 544px;
   height: 463px;
-  background-image: url(/assets/images/layouts-imgs/thumb-concept-14.png);
+  background-image: url(/assets/images/layouts-imgs/image1.png);
 }
 
 /* Layoout 2 */
@@ -187,7 +187,7 @@ header {
   height: 363px;
   border-radius: 20px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(/assets/images/layouts-imgs/features-11-video-thumb.png);
+    url(/assets/images/layouts-imgs/image2.png);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -204,7 +204,7 @@ header {
   height: 363px;
   border-radius: 20px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(/assets/images/layouts-imgs/features-11-video-thumb.png);
+    url(/assets/images/layouts-imgs/image2.png);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -345,19 +345,19 @@ header {
 }
 
 .cover-img-1 {
-  background-image: url(/assets/images/product-cover-133\ sec-.png);
+  background-image: url(/assets/images/productcover1.png);
 }
 
 .cover-img-2 {
-  background-image: url(/assets/images/product-cover-131.png);
+  background-image: url(/assets/images/productcover2.png);
 }
 
 .cover-img-3 {
-  background-image: url(/assets/images/product-cover-130\ sec-.png);
+  background-image: url(/assets/images/productcover3.png);
 }
 
 .cover-img-4 {
-  background-image: url(/assets/images/product-cover-132\ sec-.png);
+  background-image: url(/assets/images/productcover4.png);
 }
 
 .product-cover button {
@@ -500,7 +500,7 @@ header {
   width: 128px;
   height: 128px;
   border-radius: 50%;
-  background-image: url(/assets/images/testimonial-user-cover-1.png);
+  background-image: url(/assets/images/testimonial.png);
 }
 
 .layout-5-cards p {
